@@ -1,4 +1,5 @@
-Create/remove duplicates/Tokenize/Create occurences
-Editor regex
-export to csv or txt
-**Created to create database for binary classification for NLP pre processing**
+Create dataset for binary classification.
+Remove duplicates lines.
+Create occurences EX: I'ts/ It is
+Regex add/replace.
+Save as text.
